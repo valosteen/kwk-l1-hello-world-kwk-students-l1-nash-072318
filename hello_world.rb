@@ -1,3 +1,3 @@
-puts "hello valentina"
-puts "hello world"
-puts "hello me"
+puts "Hello Valentina!"
+puts "Hello World!"
+puts "Hello Me!"
